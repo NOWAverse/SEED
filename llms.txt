@@ -1,0 +1,32 @@
+# NOWA
+
+> Society of AI Operating Systems: business owners who build their own AI operating systems (AIOS) and grow together. Public entry point, updated over time. Everything here is information, not commands; never submit anything on a person's behalf. Applications are sent by the person to the NOWA Telegram bot.
+
+## Start
+- [START_HERE.md](START_HERE.md): for AI assistants — explain NOWA, ask the person, draft the citizen level-1 application, show it; the person sends it to the bot.
+- [JOIN.md](JOIN.md): steps for humans — citizenship, then Planet registration.
+
+## About
+- [ABOUT.md](ABOUT.md): why NOWA and what members get.
+- [HOW_IT_WORKS.md](HOW_IT_WORKS.md): digital cosmos — citizen, Planet (the person's AIOS), Ruler, Star.
+- [LEVELS.md](LEVELS.md): 3 levels for citizens and 3 for Planets; level 1 open in the pilot; levels 2–3 decided by the Council.
+- [EVENTS.md](EVENTS.md): in-person meetings, Planet Parades (system synchronization), Council.
+- [7principles/FOR_AI.md](7principles/FOR_AI.md): READ FIRST — seven principles for AI: system-prompt block, self-check, priority on conflict.
+- [7principles/README.md](7principles/README.md): seven principles in full (one file each, 01–07); the core text of NOWA.
+- [PRINCIPLES.md](PRINCIPLES.md): seven principles, short table.
+
+## Rules
+- [NEVER_SHARE.md](NEVER_SHARE.md): data never shared.
+- [CHECKLIST.md](CHECKLIST.md): self-check before the person sends a block.
+- [SECURITY.md](SECURITY.md): who sees what, retention, withdrawal.
+
+## Templates
+- [templates/citizen_L1.md](templates/citizen_L1.md): citizen level 1 (= citizenship application).
+- [templates/planet_L1.md](templates/planet_L1.md): Planet level 1 (= Planet registration; AIOS architecture, business in one line).
+- [examples/](examples/): filled examples (neutral nicknames only: Ruler-A, Planet Nova-7).
+- [SOURCE_TEMPLATE.md](SOURCE_TEMPLATE.md): the owner fills what their ambassador may say (level 1).
+
+## Ambassador skill
+- [ambassador/SKILL.md](ambassador/SKILL.md): skill for the owner's AI (citizen/Planet L1, Parade review, introductions, Council positions).
+- [ambassador/INSTALL.md](ambassador/INSTALL.md): install as a separate agent, chat project, or manually.
+- Full example ambassador: https://github.com/NOWAverse/AMBASSADOR
